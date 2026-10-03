@@ -9,8 +9,8 @@
 
 An end-to-end **Phishing Email Detection & Awareness Dashboard** — paste any email, get an instant risk score, phishing indicators, and security recommendations. Built with Node.js + Express backend and React frontend.
 
-🛡️ **[Live Demo →]()**
-⭐ **[GitHub →]()**
+🛡️ **[Live Demo →](https://phishing-detection-dashboard-rwg4.vercel.app/)**
+⭐ **[GitHub →](https://github.com/Neha-Joshi05/Phishing-Detection-Dashboard)**
 
 > ⚠️ **Ethical Notice:** This project is purely defensive and educational. It uses synthetic sample emails only. No real phishing emails are sent, no credentials are harvested, and no attacks are performed against real systems.
 
